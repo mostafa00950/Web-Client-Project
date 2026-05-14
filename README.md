@@ -287,7 +287,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ by [Mostafa](https://github.com/mostafa00950)
 
 ⭐ If you found this project helpful, please consider giving it a star!
 
